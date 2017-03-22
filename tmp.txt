@@ -1,0 +1,4 @@
+注册时候加上token
+通过手机号修改密码加上token
+添加token也不安全，使用post，省去token
+myproject的type最好改为identity_mark,与其他接口保持一致
